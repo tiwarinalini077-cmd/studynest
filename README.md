@@ -1,2 +1,1 @@
-# studynest
-A full-stack learning marketplace connecting students, tutors, and academic service providers. Discover tutors, book classes, access study notes, get academic guidance, and buy or sell used books—all in one platform. Built with Angular, Node.js, Express.js, and MySQL.
+<img width="766" height="2268" alt="image" src="https://github.com/user-attachments/assets/aae23a4a-2d5b-4a52-953a-45164b17b4cf" />
